@@ -1,0 +1,13 @@
+$mainColor: rgb(100, 150, 200);
+
+body{
+  text-align: center;
+}
+
+h1{
+  background: $mainColor;
+}
+
+h2{
+  color: $mainColor;
+}
