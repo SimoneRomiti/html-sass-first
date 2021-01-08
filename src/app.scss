@@ -1,7 +1,8 @@
 $mainColor: rgb(100, 150, 200);
+$textPosition: center;
 
 body{
-  text-align: center;
+  text-align: $textPosition;
 }
 
 h1{
